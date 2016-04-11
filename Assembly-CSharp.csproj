@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\MouseLook.cs" />
-     <Compile Include="Assets\Scripts\Spin.cs" />
+     <Compile Include="Assets\Scripts\TranslateAction.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
